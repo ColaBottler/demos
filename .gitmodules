@@ -1,0 +1,3 @@
+[submodule "webpack-from-docs"]
+	path = webpack-from-docs
+	url = git@github.com:ColaBottler/webpack-from-docs.git
